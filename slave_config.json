@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "theme": "black",
+  "nick": "",
+  "tools": {
+    "browse": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    },
+    "data": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    },
+    "trace": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        },
+        "31": {
+          "names": [
+            "roblox"
+          ],
+          "disabled": []
+        }
+      }
+    },
+    "persist": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    },
+    "forensic": {
+      "active": "Default",
+      "configs": {
+        "Default": {
+          "names": null,
+          "disabled": []
+        }
+      }
+    }
+  },
+  "whole": true,
+  "hide_sys": true,
+  "data_only_list": false
+}

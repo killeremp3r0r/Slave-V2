@@ -1,0 +1,19 @@
+Download everything app from void tools and let it open while running slave v2
+download the es.exe terminal from void tools too and put it in this folder.
+
+To use the app
+
+Run setup.bat
+after installation open run as administrator.bat
+
+
+If u dont understand anything or ur not a pc checker urself go to risk score calculate all download it as html and report it to Slave staff
+we will review it and add it to database if the person is cheating.
+
+
+  ███████╗ ██╗      █████╗ ██╗   ██╗███████╗
+  ██╔════╝ ██║     ██╔══██╗██║   ██║██╔════╝
+  ███████╗ ██║     ███████║██║   ██║█████╗
+  ╚════██║ ██║     ██╔══██║╚██╗ ██╔╝██╔══╝
+  ███████║ ███████╗██║  ██║ ╚████╔╝ ███████╗
+  ╚══════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝
