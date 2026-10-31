@@ -1,4 +1,5 @@
 # Slave — PC Check Tool
+<img width="558" height="363" alt="image" src="https://github.com/user-attachments/assets/dbd52918-b0ee-4239-a3ca-f7b8712d2625" />
 
 Developed by **KillerEmperor** · Windows · Python 3.9+ · UI languages: TR / EN / RU / UK
 
@@ -46,4 +47,7 @@ Each tool has its own config list. **Default** is built in and cannot be edited.
 ## Appearance
 
 Use the brush button in the header to choose color presets, a background image with blur, and interface opacity. Pillow is installed by `Setup.bat` and supports optional image features.
+
+<img width="475" height="708" alt="image" src="https://github.com/user-attachments/assets/3912591e-af1a-47b8-8395-b559859dea6b" />
+<img width="2559" height="1398" alt="image" src="https://github.com/user-attachments/assets/f699bc8f-7f5a-43b5-8e92-c87501867f25" />
 
